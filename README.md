@@ -1,4 +1,6 @@
 # Problema de las 8 Reinas - Backtracking
+# Hecho Por:
+Thomas Gonzalez A, Alejandro Sanchex L, Pablo escudero, Samuel Giraldo y Miguel Angel Cuartas 
 
 ## Explicación del problema
 
